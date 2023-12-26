@@ -5,9 +5,7 @@ import { Outlet } from 'react-router-dom';
 const Layout = () => {
     return (
         <div>
-            {/* <div className='max-w-[1240px] mx-auto'> */}
-                <Header></Header>
-            {/* </div> */}
+            <Header></Header>
             <Outlet></Outlet>
         </div>
     );

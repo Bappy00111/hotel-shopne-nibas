@@ -5,7 +5,7 @@ import logo from '../../public/imges/asset 0.png'
 
 const Header = () => {
     return (
-        <div className="navbar bg-base-100 max-w-screen-xl mx-auto ">
+        <div className="navbar bg-base-100 max-w-screen-xl mx-auto">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -29,9 +29,9 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end gap-3 ">
-                <a className="btn text-blue-500 text-sm">
-                    <PhoneArrowUpRightIcon className='h-5 w-5 text-blue-500' />
-                    01914695985</a>
+                <Link className=" text-white bg-blue-500 text-sm px-8 py-4 flex gap-3">
+                    <span><PhoneArrowUpRightIcon className='h-5 w-5 text-white' /></span>
+                    01914695985</Link>
             </div>
         </div>
     )
