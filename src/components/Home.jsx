@@ -1,10 +1,12 @@
 import React from 'react';
 import Bannar from './Bannar';
+import Feature from './Feature';
 
 const Home = () => {
     return (
         <div>
             <Bannar></Bannar>
+            <Feature></Feature>
         </div>
     );
 };

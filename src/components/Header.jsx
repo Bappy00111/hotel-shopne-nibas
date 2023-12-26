@@ -29,7 +29,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end gap-3 ">
-                <Link className=" text-white bg-blue-500 text-sm px-8 py-4 flex gap-3">
+                <Link className=" text-white bg-cyan-400 text-sm px-8 py-4 flex gap-3">
                     <span><PhoneArrowUpRightIcon className='h-5 w-5 text-white' /></span>
                     01914695985</Link>
             </div>
