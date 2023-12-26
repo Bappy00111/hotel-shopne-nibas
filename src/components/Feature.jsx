@@ -1,6 +1,5 @@
 import React from 'react';
 import { PhoneArrowUpRightIcon } from '@heroicons/react/24/solid'
-import { Link } from 'react-router-dom';
 import image from '../../public/imges/asset 10.jpeg'
 import image2 from '../../public/imges/asset 12.jpeg'
 

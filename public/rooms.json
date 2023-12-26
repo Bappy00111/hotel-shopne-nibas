@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/sKgSFgF/asset-2.jpg",
+      "title": "Hotel Shopno Nibash offers a comfortable standard rooms for single occupancy with both       AC and non-AC options. We offers      comfortable service.",
+      "name": "Standard Room (Single)AC / NON AC"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/XyqB9jR/asset-4.jpg",
+      "title": "Hotel Shopno Nibash Deluxe Room offers comfortable accommodation with twin beds, available in both AC and non-AC options.",
+      "name": "Deluxe Room (Tween Bed)AC / NON AC"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/jMhyGbH/asset-1.jpg",
+      "title": "Discover comfort and elegance in the Deluxe Room at Hotel Shopno Nibash, offering AC and non-AC options for couples.",
+      "name": "Deluxe Room (Couple Bed)AC / NON AC"
+     },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/r3Sy8ks/asset-8.jpg",
+      "title": "Experience luxurious accommodation in Hotel Shopno Nibash's Royal Room with a choice of AC or non-AC options.",
+      "name": "Royal Room (Tree Bed)AC / NON AC"
+    }
+  ]
