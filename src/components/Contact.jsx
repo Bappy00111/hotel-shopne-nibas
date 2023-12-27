@@ -6,7 +6,7 @@ const Contact = () => {
     return (
         <div className='py-10 bg-slate-100 '>
             <div className='max-w-screen-xl mx-auto p-2'>
-                <h1 className='font-sans  text-4xl text-center font-medium mb-4'>contact <span className='text-cyan-400'>us</span></h1>
+                <h1 className='font-sans  text-4xl text-center font-medium mb-6'>CONTACT <span className='text-cyan-400'>US</span></h1>
                 <div className='grid md:grid-cols-2'>
                     <div className='grid-cols-1 space-y-8 mb-5'>
                         <h1 className='font-extrabold text-3xl text-cyan-400'>Get in Touch</h1>

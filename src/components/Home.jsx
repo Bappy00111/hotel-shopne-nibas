@@ -5,6 +5,7 @@ import Rooms from './Rooms';
 import RantRooms from './RantRooms';
 import About from './About';
 import Contact from './Contact';
+import FixedSection from './FixedSection';
 
 const Home = () => {
     return (
@@ -15,6 +16,7 @@ const Home = () => {
             <RantRooms></RantRooms>
             <About></About>
             <Contact></Contact>
+            <FixedSection></FixedSection>
         </div>
     );
 };
