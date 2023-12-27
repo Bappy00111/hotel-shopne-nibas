@@ -6,6 +6,7 @@ import RantRooms from './RantRooms';
 import About from './About';
 import Contact from './Contact';
 import FixedSection from './FixedSection';
+import HotalContact from './HotalContact';
 
 const Home = () => {
     return (
@@ -17,6 +18,7 @@ const Home = () => {
             <About></About>
             <Contact></Contact>
             <FixedSection></FixedSection>
+            <HotalContact></HotalContact>
         </div>
     );
 };
