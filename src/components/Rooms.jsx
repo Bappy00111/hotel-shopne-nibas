@@ -8,11 +8,11 @@ const [datas,setDatas] = useState(null)
         .then(res => res.json())
         .then(data => setDatas(data))
     },[])
-    console.log(datas);
+    // console.log(datas);
     return (
-        <div className='bg-slate-200 py-10'>
+        <div className='bg-slate-100 py-10'>
             <div className='max-w-screen-xl mx-auto'>
-                <h1 className='text-center text-4xl font-medium mb-4'>RO<span className='text-cyan-400'>OMS</span></h1>
+                <h1 className='text-center text-2xl md:text-4xl font-medium mb-4n d'>RO<span className='text-cyan-400'>OMS</span></h1>
                 <div className='grid md:grid-cols-2 gap-5 p-4'>
                     {
                         datas?.map(data => <RoomsCard

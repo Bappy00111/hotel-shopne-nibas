@@ -15,7 +15,7 @@ const Header = () => {
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/rooms'>Rooms</Link></li>
                     <li><Link to='/about'>About Us</Link></li>
-                    <li><Link to='/'>Contact Us</Link></li>
+                    <li><Link to='/contact'>Contact Us</Link></li>
                     </ul>
                 </div>
                 <img className='md:h-12 md:w-28 w-20 h-8' src={logo} alt="" />
@@ -25,7 +25,7 @@ const Header = () => {
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/rooms'>Rooms</Link></li>
                     <li><Link to='/about'>About Us</Link></li>
-                    <li><Link to='/'>Contact Us</Link></li>                  
+                    <li><Link to='/contact'>Contact Us</Link></li>                  
                 </ul>
             </div>
             <div className="navbar-end gap-3 ">

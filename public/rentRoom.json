@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/sKgSFgF/asset-2.jpg",
+      "title": "Hotel Shopno Nibash offers a comfortable standard rooms for single occupancy with both AC and non-AC options. We offers comfortable      service.",
+      "name": "Standard Room (Single) AC",
+      "price": 1800
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/t4yr7NJ/asset-7.jpg",
+      "title": "Hotel Shopno Nibash offers a comfortable standard rooms for single occupancy with both AC and non-AC options. We offers comfortable       service.",
+      "name": "Standard Room (Single) NON AC",
+      "price": 1500
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/YW7MJKL/asset-12.jpg",
+      "title": "Hotel Shopno Nibash Deluxe Room offers comfortable accommodation with twin beds, available in both AC and non-AC options.",
+      "name": "Deluxe Room (Tween Bed) AC",
+      "price": 2500
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/qj7JvTD/asset-16.jpg",
+      "title": "Hotel Shopno Nibash Deluxe Room offers comfortable accommodation with twin beds, available in both AC and non-AC options",
+      "name": "Deluxe Room (Tween Bed) NON AC",
+      "price": 2000
+    },
+    {
+      "id": 5,
+       "img":"https://i.ibb.co/jMhyGbH/asset-1.jpg",
+      "title": "Discover comfort and elegance in the Deluxe Room at Hotel Shopno Nibash, offering AC and non-AC options for couples.",
+      "name": "Deluxe Room (Couple Bed) AC",
+      "price": 2500
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/Dkn1dDz/asset-9.jpg",
+      "title": "Discover comfort and elegance in the Deluxe Room at Hotel Shopno Nibash, offering AC and non-AC options for couples.",
+      "name": "Deluxe Room (Couple Bed) NON AC",
+      "price": 2000
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/dMFtHPx/asset-13.jpg",
+      "title": "Experience luxurious accommodation in Hotel Shopno Nibash’s Royal Room with a choice of AC or non-AC options. Book now!",
+      "name": "Royal Room (Tree Bed) AC",
+      "price": 3500
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/g9wGcMv/asset-6.jpg",
+      "title": "Experience luxurious accommodation in Hotel Shopno Nibash’s Royal Room with a choice of AC or non-AC options. Book now!",
+      "name": "Royal Room (Tree Bed) NON AC",
+      "price": 2500
+    }
+  ]
