@@ -15,21 +15,21 @@ const Contact = () => {
                             <div className='flex gap-3 items-center'>
                                 <PhoneArrowUpRightIcon className='h-10 w-12 text-cyan-400' />
                                 <span className='text-slate-700'>
-                                    <h2 className='text-3xl font-semibold'>Call Now</h2>
+                                    <h2 className=' text-xl md:text-3xl font-semibold'>Call Now</h2>
                                     <p className='font-medium'>+8801914695985</p>
                                 </span>
                             </div>
                             <div className='flex gap-3 items-center py-6'>
-                                <InboxStackIcon className='h-10 w-12 text-cyan-400' />
+                                <InboxStackIcon className='h-10 w-10 text-cyan-400' />
                                 <span className='text-slate-700'>
-                                    <h2 className='text-3xl font-semibold'>Email</h2>
+                                    <h2 className='text-xl md:text-3xl font-semibold'>Email</h2>
                                     <p className='font-medium'>hotelshopnonibash.info@gmail.com</p>
                                 </span>
                             </div>
                             <div className='flex gap-3 items-center'>
-                                <MapIcon className='h-10 w-12 text-cyan-400' />
+                                <MapIcon className='h-10 w-10 text-cyan-400' />
                                 <span className='text-slate-700'>
-                                    <h2 className='text-3xl font-semibold'>Address</h2>
+                                    <h2 className='text-xl md:text-3xl font-semibold'>Address</h2>
                                     <p className='font-medium'>56/I/A, West Panthapath (West side of Square Hospital), Dhaka-1205</p>
                                 </span>
                             </div>
