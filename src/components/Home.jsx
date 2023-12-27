@@ -4,6 +4,7 @@ import Feature from './Feature';
 import Rooms from './Rooms';
 import RantRooms from './RantRooms';
 import About from './About';
+import Contact from './Contact';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <Rooms></Rooms>
             <RantRooms></RantRooms>
             <About></About>
+            <Contact></Contact>
         </div>
     );
 };
